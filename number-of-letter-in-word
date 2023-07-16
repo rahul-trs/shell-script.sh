@@ -1,0 +1,9 @@
+#!/bin/bash
+#Author: Thakur Rahul
+#Date: 16/07/2023
+#version: v1
+######################
+
+#find number of s in a word
+x=mississipi
+grep -o "s" <<<"$x" | wc -l	

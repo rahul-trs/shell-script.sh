@@ -1,4 +1,9 @@
 #!/bin/sh
+#Author: Rahul
+
+#Date: 14/07/2023
+#This scripts outputs the node Health
+#Version: v1
 
 a=30
 b=40

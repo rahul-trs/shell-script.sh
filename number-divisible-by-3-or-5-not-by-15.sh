@@ -2,7 +2,8 @@
 ##########
 # Author: Thakur Rahul
 # Date: 15/07/2023
-set -e
+#Version:v1
+set -e #used to debug when there is an error in command will exit without executing
 for i in {1..100}; do #for iteration
 
 

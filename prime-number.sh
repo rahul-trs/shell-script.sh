@@ -1,4 +1,9 @@
 #!/bin/bash
+##########
+# Author: Thakur Rahul
+# Date: 15/07/2023
+#Version:v1
+
 echo -e "Enter number"
 read n
 for((i=2; i<=$n/2; i++))
